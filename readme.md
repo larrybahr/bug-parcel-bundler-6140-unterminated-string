@@ -28,3 +28,12 @@ The terminal process "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
 
 Terminal will be reused by tasks, press any key to close it.
 ```
+
+
+| Software  | Version |
+| ------------- | ------------- |
+| Parcel  | 2.0.0-nightly.722 (also tried 2.0.0-nightly.718) |
+| Node  | 15.12.0  |
+| NPM | 7.6.3  |
+| OS  | Windows 10 Pro x64 v 20H2 build 19042.1052 |
+
