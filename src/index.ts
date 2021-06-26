@@ -17,4 +17,3 @@ class Test extends LitElement {
 
 customElements.define("test-test", Test);
 export { Test };
-
